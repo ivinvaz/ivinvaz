@@ -20,4 +20,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalho com
 <img height="50" width="50" src="https://unpkg.com/simple-icons@v15/icons/laravel.svg" />
 <img height="15" width="15" src="https://img.icons8.com/?size=100&id=24801&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38294&format=png&color=000000" />
-<img height="50" width="50" src="https://unpkg.com/simple-icons@v15/icons/spring.svg" />
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v15/icons/springboot.svg" />
